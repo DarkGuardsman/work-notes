@@ -1,4 +1,8 @@
-# Robert W Seifert's Work Notes
+# Robin Seifert's Work Notes
+
+Online Names: DarkCow, DarkGuardsman, Intaves
+
+Previous Name: Robert WC Seifert
 
 ## Work Notes?
 
@@ -7,7 +11,3 @@ This whole repository exists to log notes for when I do work like actitivies. Th
 ## Links for self
 
 [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-Me:
-
-![Image of Robert W Seifert](PictureOfSelf.jpg "Robert W Seifert")
